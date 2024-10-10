@@ -1,3 +1,3 @@
 # hiddig-lodge
 
-hiddig softwatre allows to book rooms
+hiddig software allows to book rooms
